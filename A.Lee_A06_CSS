@@ -1,0 +1,10 @@
+h {
+    font-size: 32;
+	}
+	
+h2 {
+    font-style: Helvetica;
+	}
+h3 {
+    color: darkgreen;
+	}
